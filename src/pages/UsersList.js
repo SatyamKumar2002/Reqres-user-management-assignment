@@ -16,7 +16,7 @@ const UsersList = () => {
       navigate("/users");
     }
     fetchUsers(page);
-  }, [page]);
+  }, [navigate]);  //[page]
 
   const fetchUsers = async (page) => {
     try {
