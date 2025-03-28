@@ -72,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Reqres-user-management-assignment
 >>>>>>> ee41249dce804ecd39e01dd5609294c9d59375cc
+  
+
+# DIPLOYMENT LINK
+[shimmering-cendol-6a0299.netlify.app]
