@@ -31,7 +31,7 @@ const Login = () => {
         <form onSubmit={handleLogin}>
           <input
             type="email"
-            placeholder="Email"
+            placeholder="Email eg. eve.holt@reqres.in"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             className="w-full p-2 mb-2 border rounded"
@@ -39,7 +39,7 @@ const Login = () => {
           />
           <input
             type="password"
-            placeholder="Password"
+            placeholder="Password eg. cityslicka"
             value={password}
             onChange={(e) => setPassword(e.target.value)}
             className="w-full p-2 mb-4 border rounded"
