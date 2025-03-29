@@ -1,3 +1,33 @@
+# DIPLOYMENT LINK
+[shimmering-cendol-6a0299.netlify.app]
+
+# HOW TO RUN
+1-> clone the project 
+    https link of project ->"https://github.com/SatyamKumar2002/Reqres-user-management-assignment.git"
+2-> install dependencies
+    run command -> npm i
+3-> to start project
+    run command -> npm start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
@@ -74,5 +104,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 >>>>>>> ee41249dce804ecd39e01dd5609294c9d59375cc
   
 
-# DIPLOYMENT LINK
-[shimmering-cendol-6a0299.netlify.app]
